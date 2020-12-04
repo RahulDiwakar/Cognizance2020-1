@@ -4,3 +4,5 @@
 4.Yellow
 5.Orange
 6.White
+7.Violet
+8.Red
